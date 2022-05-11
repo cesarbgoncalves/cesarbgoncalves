@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg">  
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/django/django-original.svg">    
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain-wordmark.svg">    
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/nginx/nginx-original.svg">  
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/redhat/redhat-original.svg">     
   
